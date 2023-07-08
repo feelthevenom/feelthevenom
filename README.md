@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAHUL R</h1>
+<h2 align="center">Department of Electronics and Communication Engineer</h2>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelthevenom&label=Profile%20views&color=0e75b6&style=flat" alt="feelthevenom" /> </p>
