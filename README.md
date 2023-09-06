@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Semantic segmentation for final year project**
 
-- 🌱 I’m currently learning **React, Deep Learning**
+- 🌱 I’m currently learning **React, Deep Learning,Data Analytics**
 
 - 💬 Ask me about **react**
 
