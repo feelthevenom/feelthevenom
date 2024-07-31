@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm RAHUL R</h1>
 <h2 align="center">Department of Electronics and Communication Engineering</h2>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate full stack developer with AI integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelthevenom&label=Profile%20views&color=0e75b6&style=flat" alt="feelthevenom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feelthevenom" alt="feelthevenom" /></a> </p>
 
-- 🔭 I’m currently working on **Semantic segmentation for final year project**
+- 🔭 I’m currently working on **MLOps**
 
-- 🌱 I’m currently learning **React, Deep Learning,Data Analytics**
+- 🌱 I’m currently learning **React, Deep Learning, Data Analytics MLOps**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, DeepLearning**
 
 - 📫 How to reach me **rahul.valli2003@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/upg56egwuv](https://flowcv.com/resume/upg56egwuv)
+
+- Publication [Conference - BMSU-Net: Building Extraction From Aerial Imagery]((https://ieeexplore.ieee.org/document/10580151)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
