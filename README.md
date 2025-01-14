@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RAHUL R</h1>
+<h1 align="center">Hi 👋, I'm RAHUL Ravikumar</h1>
 <h2 align="center">Department of Electronics and Communication Engineering</h2>
 <h3 align="center">A passionate full stack developer with AI integration</h3>
 
